@@ -1,1 +1,6 @@
-{"accuracy": 1.0}
+{
+  "accuracy": 0.9666666666666667,
+  "train_rows": 117,
+  "test_rows": 30,
+  "data_version": "outs:\n- md5: b6144edf7793246837c37b0160ad85e0\n  size: 5004\n  hash: md5\n  path: Iris.csv\n"
+}

@@ -1,0 +1,4 @@
+[core]
+    remote = mlopsat
+['remote "mlopsat"']
+    url = s3://mlops-demo-at-867896420346-us-west-2-an
